@@ -1,0 +1,6 @@
+[submodule "monovim"]
+	path = monovim
+	url = https://leppert@github.com/leppert/monovim.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
